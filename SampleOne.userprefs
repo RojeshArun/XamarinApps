@@ -1,10 +1,6 @@
 ﻿<Properties StartupConfiguration="{B6D59BB4-20E9-47F0-916F-9021A3099A6D}|Default">
   <MonoDevelop.Ide.ItemProperties.SampleOne.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SampleOne Status">
-    <Files>
-      <File FileName="SampleOne Status" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
